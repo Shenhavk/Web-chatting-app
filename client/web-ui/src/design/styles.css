@@ -1,0 +1,101 @@
+* {
+  font-family: cursive;
+}
+.modalContainer {
+  background-color: #fff;
+  max-width: 700px;
+  position: absolute;
+  top: 12%;
+  left: 10%;
+  right: 10%;
+  max-height: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 20px;
+  height: 480px;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: #b2d3db;
+}
+#a {
+  color: #0fb7e0;
+  text-decoration: underline;
+}
+input[type="text"],
+input[type="password"],
+input[type="file"] {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border-color: rgba(178, 193, 220, 0.751);
+  font-size: 16px;
+  font-family: cursive;
+}
+#button {
+  background: #b2d3db;
+}
+
+#button {
+  background-color: #b2d3db;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#pic {
+  display: flex;
+  left: 75%;
+  position: absolute;
+  width: 20%;
+  height: 18%;
+  bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 19%;
+  font-family: cursive;
+}
+
+/*
+.light-blue{
+  background: #b2d3db;
+  height: 170px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
+}
+
+#icon{
+  padding: 26pt;
+  position: absolute;
+  font-size: 300%;
+  left: 0%;
+  margin: 0 auto;
+}
+
+.fields{
+  left:15px;
+  position: relative;
+}
+.inputClass{
+  right: 200px;
+  left: 200px;
+}
+.alreadyRegistered{
+  text-align: center;
+  font-size: 10px;
+  font-family: cursive;
+  padding: 0;
+} 
+*/
