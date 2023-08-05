@@ -1,4 +1,4 @@
-======= Web UI =======
+======= Web Chatting App =======
 
 This project is written using: HTML, CSS, JAVASCRIPT, REACT, Bootstrap, NodeJS and MongoDB.
 
